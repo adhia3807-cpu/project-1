@@ -1,0 +1,6 @@
+{
+  "name": "AI Advertisement Robot",
+  "description": "AI-powered advertisement management and customer interaction platform for advertising robots with structured product knowledge extraction and intent-driven Q&A.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
